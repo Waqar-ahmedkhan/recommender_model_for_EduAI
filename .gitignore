@@ -1,3 +1,20 @@
-__pycache__
+# Ignore model and data files
+*.pkl
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
 .venv/
-*.pyc
+venv/
+env/
+ENV/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
