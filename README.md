@@ -1,3 +1,8 @@
+<img width="2480" height="3508" alt="Eduai Fypf" src="https://github.com/user-attachments/assets/2dc05fca-4288-42af-9d64-ac4534f1a1cf" /><img width="2480" height="3508" alt="Eduai Fypf" src="https://github.com/user-attachments/assets/e4467e87-1c0f-4d68-8aef-4643c6eae360" />
+
+
+
+
 # 📊 EduAI – ML-Based Course Recommendation System
 
 This repository contains the **Python machine learning model** developed for the [EduAI](https://github.com/Waqar-ahmedkhan/eduai) platform. The model is designed to provide **intelligent course recommendations** to students based on course similarity using **cosine similarity** and **content-based filtering**.
